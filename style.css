@@ -1,0 +1,18 @@
+body { 
+  font-family: "Arial Black", Gadget, sans-serif; 
+  background: #FFFFFF; 
+  color: #000000;
+}
+h1{
+  color: #124fea; 
+  text-decoration: underline; 
+}
+h2 { 
+  color: #09EE29; 
+  text-decoration: underline; 
+}
+img {
+  max-width: 500px;
+  float: right;
+  border: 5px solid black;
+}
